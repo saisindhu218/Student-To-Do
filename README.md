@@ -1,10 +1,8 @@
-# Student-To-Do
+# 📚 Student-To-Do List Web APp
 Of course, Sindhu 💚 — here's your **cleaned-up README content in plain text** with no code blocks or highlight boxes. You can copy and paste this directly into your `README.md` file or a Word document.
 
 
-
-# 📚 Student To-Do List Web App
-
+ 
 A simple full-stack to-do list app that helps students manage tasks effectively. Includes login, signup, task creation, viewing, completion, and deletion features.
 
 
