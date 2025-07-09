@@ -111,7 +111,7 @@ DELETE /api/tasks/\:id         → Delete task
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/51e9c3d9-c7b7-476a-81e9-579670f0ef28" />
 
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/14388827-9222-4728-a9ad-4e7d2613f284" /
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/14388827-9222-4728-a9ad-4e7d2613f284" />
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7feb77fe-0aef-442a-8b86-3f6d931d5f15" />
 
