@@ -1,13 +1,13 @@
 # Student-To-Do
 Of course, Sindhu 💚 — here's your **cleaned-up README content in plain text** with no code blocks or highlight boxes. You can copy and paste this directly into your `README.md` file or a Word document.
 
----
+
 
 # 📚 Student To-Do List Web App
 
 A simple full-stack to-do list app that helps students manage tasks effectively. Includes login, signup, task creation, viewing, completion, and deletion features.
 
----
+
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ A simple full-stack to-do list app that helps students manage tasks effectively.
 * 🗑️ Mark tasks as complete or delete them
 * 🎨 Clean, responsive user interface
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ HTML5, CSS3, JavaScript (Vanilla)
 **Backend:**
 Node.js, Express.js, MongoDB (via Mongoose), bcryptjs (for password encryption), cors (for frontend-backend connection)
 
----
+
 
 ## 📁 Folder Structure
 
@@ -45,7 +45,7 @@ todo-app/
 │   └── style.css        → Styling
 └── README.md
 
----
+
 
 ## 💻 Getting Started
 
@@ -58,7 +58,7 @@ Ensure the following are installed on your system:
 * MongoDB Compass (optional)
 * Visual Studio Code (recommended)
 
----
+
 
 ### 2. Installation Steps
 
@@ -74,7 +74,7 @@ Ensure the following are installed on your system:
 * Make sure MongoDB is running:
   mongod
 
----
+
 
 ### 3. Run the Server
 
@@ -85,14 +85,14 @@ You should see a message like:
 “Server started on port 5000”
 “Connected to MongoDB”
 
----
+
 
 ### 4. Run the Frontend
 
 Open `signup.html` or `login.html` from the `public/` folder in your browser.
 You can also use the Live Server extension in VS Code for a better experience.
 
----
+
 
 ## 🌐 API Endpoints
 
@@ -103,13 +103,21 @@ GET    /api/tasks/\:username   → Get all tasks for user
 PUT    /api/tasks/\:id         → Update task (mark complete)
 DELETE /api/tasks/\:id         → Delete task
 
----
+
 
 ## 📸 Screenshots
 
-(You can add screenshots of login, task list, and UI pages here once uploaded to GitHub or use image links.)
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/51e21b0d-28fb-466b-86b7-5198f7fee856" />
 
----
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/14388827-9222-4728-a9ad-4e7d2613f284" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/51e9c3d9-c7b7-476a-81e9-579670f0ef28" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7feb77fe-0aef-442a-8b86-3f6d931d5f15" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1d897f23-e907-4c71-b94b-5694e75efdab" />
+
+
 
 ## 🧠 Future Improvements
 
@@ -119,7 +127,9 @@ DELETE /api/tasks/\:id         → Delete task
 * Add forgot password/reset password feature
 * Use JWT-based session handling for better security
 
----
+This project is free and open-source for learning and development purposes.
+
+
 
 ## 🙋‍♀️ Author
 
@@ -127,12 +137,5 @@ DELETE /api/tasks/\:id         → Delete task
 MCA Student @ Jain (Deemed-to-be University), Bangalore
 Passionate about full-stack development and real-world project building.
 
----
 
-## 📄 License
 
-This project is free and open-source for learning and development purposes.
-
----
-
-Let me know when you upload it to GitHub so I can help add a cover image or badge if you'd like! 💪📦
