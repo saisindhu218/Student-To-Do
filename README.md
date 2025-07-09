@@ -31,19 +31,19 @@ Node.js, Express.js, MongoDB (via Mongoose), bcryptjs (for password encryption),
 
 ## 📁 Folder Structure
 
-#### todo-app/
-├── backend/
-│   ├── server.js
-│   └── models/
-│       ├── User.js
-│       └── Task.js
-├── public/
-│   ├── index.html       → Add task page
-│   ├── tasks.html       → View task page
-│   ├── login.html       → Login page
-│   ├── signup.html      → Signup page
-│   └── style.css        → Styling
-└── README.md
+. todo-app/
+. ├── backend/
+. │   ├── server.js
+. │   └── models/
+. │       ├── User.js
+. │       └── Task.js
+. ├── public/
+. │   ├── index.html       → Add task page
+. │   ├── tasks.html       → View task page
+. │   ├── login.html       → Login page
+. │   ├── signup.html      → Signup page
+. │   └── style.css        → Styling
+. └── README.md
 
 
 
