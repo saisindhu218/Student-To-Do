@@ -37,7 +37,6 @@ Ensure the following are installed on your system:
 
 * Node.js
 * MongoDB
-* MongoDB Compass (optional)
 * Visual Studio Code (recommended)
 
 
@@ -99,7 +98,7 @@ You can also use the Live Server extension in VS Code for a better experience.
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1d897f23-e907-4c71-b94b-5694e75efdab" />
 
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/77e078a8-f48e-4e7f-a1cf-0df9fd3ea82e" />
 
 ## 🧠 Future Improvements
 
