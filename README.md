@@ -27,7 +27,7 @@ Node.js, Express.js, MongoDB (via Mongoose), bcryptjs (for password encryption),
 
 ## 📁 Folder Structure
 
-<img width="1115" height="464" alt="Image" src="https://github.com/user-attachments/assets/16191925-2fcf-446d-b730-befbf47c52e6" />
+<img width="1115" height="428" alt="Image" src="https://github.com/user-attachments/assets/00e46679-f911-40e1-a450-91b47afe36db" />
 
 ## 💻 Getting Started
 
