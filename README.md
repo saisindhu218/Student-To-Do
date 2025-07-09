@@ -118,7 +118,7 @@ This project is free and open-source for learning and development purposes.
 ## 🙋‍♀️ Author
 
 **Rachabattuni Sai Sindhu**
-MCA Student @ Jain (Deemed-to-be University), Bangalore
+MCA Student @ Jain (Deemed-to-be University), Bangalore.
 Passionate about full-stack development and real-world project building.
 
 
