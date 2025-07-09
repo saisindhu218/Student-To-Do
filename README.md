@@ -64,8 +64,9 @@ node server.js
 
 You should see a message like:
 “Server started on port 5000”
-“Connected to MongoDB”
+“Connected to MongoDB”   
 
+As this files mostly under node_module folder and they are huge to share...i am not displaying them in my repository
 
 
 ### 4. Run the Frontend
