@@ -98,6 +98,7 @@ You can also use the Live Server extension in VS Code for a better experience.
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/1d897f23-e907-4c71-b94b-5694e75efdab" />
 
+As the dat entered as todo list have been stored in database
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/77e078a8-f48e-4e7f-a1cf-0df9fd3ea82e" />
 
 ## 🧠 Future Improvements
