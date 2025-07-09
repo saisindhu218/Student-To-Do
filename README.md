@@ -31,7 +31,7 @@ Node.js, Express.js, MongoDB (via Mongoose), bcryptjs (for password encryption),
 
 ## 📁 Folder Structure
 
-####todo-app/
+#### todo-app/
 ├── backend/
 │   ├── server.js
 │   └── models/
