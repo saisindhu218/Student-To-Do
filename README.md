@@ -31,7 +31,7 @@ Node.js, Express.js, MongoDB (via Mongoose), bcryptjs (for password encryption),
 
 ## 📁 Folder Structure
 
-todo-app/
+####todo-app/
 ├── backend/
 │   ├── server.js
 │   └── models/
@@ -96,12 +96,12 @@ You can also use the Live Server extension in VS Code for a better experience.
 
 ## 🌐 API Endpoints
 
-POST   /api/register     → Register a new user
-POST   /api/login        → Login user
-POST   /api/tasks        → Create new task
-GET    /api/tasks/\:username   → Get all tasks for user
-PUT    /api/tasks/\:id         → Update task (mark complete)
-DELETE /api/tasks/\:id         → Delete task
+* POST   /api/register     → Register a new user
+* POST   /api/login        → Login user
+* POST   /api/tasks        → Create new task
+* GET    /api/tasks/\:username   → Get all tasks for user
+* PUT    /api/tasks/\:id         → Update task (mark complete)
+* DELETE /api/tasks/\:id         → Delete task
 
 
 
